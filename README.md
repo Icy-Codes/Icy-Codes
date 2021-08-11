@@ -16,6 +16,19 @@
   </div>
 </div>
 
+<hr>
+
+<div align="center">
+  <div style="display: flex";>
+    <h2>✨My Stats✨</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icy-Codes&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Icy-Codes&show_icons=true&theme=tokyonight&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+
+  </div>
+</div>
+
+<hr>
+
 <!--
 **Icy-Codes/Icy-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
